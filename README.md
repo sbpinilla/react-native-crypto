@@ -24,3 +24,6 @@ React Native Crypto
 
 ### DEMO 2
 <img width="200" alt="Demo1" src="https://github.com/sbpinilla/react-native-crypto/blob/master/demo/demo2.png">
+
+### Tomado de 
+[crypto-js](https://www.npmjs.com/package/crypto-js)
