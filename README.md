@@ -20,6 +20,6 @@ React Native Crypto
  ```
 
 ### DEMO 1
-<img width="200" alt="Demo1" src="">
+<img width="200" alt="Demo1" src="https://github.com/sbpinilla/react-native-crypto/blob/master/demo/demo1.png">
 ### DEMO 2
-<img width="200" alt="Demo1" src="">
+<img width="200" alt="Demo1" src="https://github.com/sbpinilla/react-native-crypto/blob/master/demo/demo2.png">
